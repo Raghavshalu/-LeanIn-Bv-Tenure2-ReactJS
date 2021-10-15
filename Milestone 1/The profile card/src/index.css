@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.ux{
+  border: 15px solid black;
+}
+.profile{
+  margin-top: 15px;
+  margin-left: 10px;
+  width: 150px;
+  height: 130px;
+    border-radius: 50%;
+}
+.check{
+  color: rgb(32, 194, 243);
+}
+.name{
+  margin-left: 10px;
+}
+.image{
+    top: 0px;
+    right: 0px;
+    border-radius: 50%;
+ }
+ .pro{
+  margin-left: 10px;
+}
+#about #skilled{
+  background-color: rgb(32, 194, 243);
+  border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 6px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 5px 5px;
+  cursor: pointer;
+} 
+
+
